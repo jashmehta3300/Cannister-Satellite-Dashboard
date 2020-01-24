@@ -13,4 +13,6 @@ It also displays graphs for those values which are implemented using chart.js
 
 ## Screenshots
 
-![]()
+![](https://github.com/jashmehta3300/Screenshots/blob/master/Arya_img/Login.JPG)
+
+![](https://github.com/jashmehta3300/Screenshots/blob/master/Arya_img/Dashboard.JPG)
